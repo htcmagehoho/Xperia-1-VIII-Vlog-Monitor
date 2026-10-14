@@ -19,5 +19,6 @@
   "official_sony_compatibility_for_xperia_1_viii": false,
   "file_size_bytes": 46515237,
   "sha256": "cc233aa3e7463de8983d2daf7d2ddb7195f6cdecbafe56d29b8a0987681dc522",
-  "binary_included_in_this_commit": false
+  "binary_included_in_this_commit": false,
+  "author": "Sony KR Users Community (소니 KR 사용자모임, Korea)"
 }
