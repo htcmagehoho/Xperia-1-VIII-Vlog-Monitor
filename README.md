@@ -4,7 +4,7 @@
 
 *Xperia 1 VIII Camera — Sony Vlog Monitor XQZ-IV01 connected (실제 연결 완료 화면)*
 
-**Unofficial compatibility modification by 소니 사용자모임 (Sony Xperia Users Community)**
+**Unofficial Xperia camera compatibility modification by Sony KR Users Community (소니 KR 사용자모임, Korea)**
 
 > English first / 한국어 안내는 아래에 있습니다.
 
