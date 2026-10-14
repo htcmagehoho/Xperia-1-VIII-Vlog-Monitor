@@ -1,0 +1,23 @@
+{
+  "name": "Xperia 1 VIII Camera — Sony Vlog Monitor XQZ-IV01 support",
+  "apk": "Xperia_VIII_Vlog.apk",
+  "package_name": "jp.co.sony.mc.vlogcamxx",
+  "version_name": "1.2.1.A.0.12",
+  "camera_base": "Sony stock Camera for Xperia 1 VIII Android 17",
+  "three_photo_styles": true,
+  "minimum_sdk": 36,
+  "target_sdk": 37,
+  "owner_reported_tested_device": "Xperia 1 VIII",
+  "owner_reported_android_16": "working",
+  "owner_reported_android_17": "working",
+  "original_stock_camera_replaced": false,
+  "modified_sony_proprietary_app": true,
+  "fork_of_third_party_app": false,
+  "fully_buildable_source_available": false,
+  "accessory_name": "Sony Vlog Monitor for Xperia",
+  "accessory_model": "XQZ-IV01",
+  "official_sony_compatibility_for_xperia_1_viii": false,
+  "file_size_bytes": 46515237,
+  "sha256": "cc233aa3e7463de8983d2daf7d2ddb7195f6cdecbafe56d29b8a0987681dc522",
+  "binary_included_in_this_commit": false
+}
