@@ -1,5 +1,9 @@
 # Xperia 1 VIII Camera — Sony Vlog Monitor XQZ-IV01
 
+![Xperia 1 VIII Camera showing Sony Vlog Monitor XQZ-IV01 successfully connected](assets/vlog-monitor-connected.webp)
+
+*Xperia 1 VIII Camera — Sony Vlog Monitor XQZ-IV01 connected (실제 연결 완료 화면)*
+
 **Unofficial compatibility modification by 소니 사용자모임 (Sony Xperia Users Community)**
 
 > English first / 한국어 안내는 아래에 있습니다.
