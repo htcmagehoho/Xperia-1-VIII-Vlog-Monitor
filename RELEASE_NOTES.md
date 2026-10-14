@@ -1,5 +1,7 @@
 # Xperia 1 VIII Vlog Monitor XQZ-IV01 — Release Notes
 
+**Sony KR Users Community (소니 KR 사용자모임, Korea)**
+
 ## English
 
 - **Genuine Sony accessory:** Restores the USB-C connection workflow for **Sony Vlog Monitor for Xperia, model XQZ-IV01**, on Xperia 1 VIII.
